@@ -32,7 +32,7 @@ body {
     color: #F1C863;
     margin-top: -0.2em;
     /* Typography Declarations */
-    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-family: "Roboto Slab", "Helvetica Neue", sans-serif;
     font-weight: bold;
     font-size: 6em;
     letter-spacing: -0.02em;
@@ -58,7 +58,7 @@ body {
 }
 
 .questions-section > h2 {
-    font-family: "Gentium Book Basic", Georgia, serif;
+    font-family: "Roboto Slab", "Helvetica Neue", sans-serif;
     font-size: 1.2em;
     font-weight: bold;
     /* Layout */
